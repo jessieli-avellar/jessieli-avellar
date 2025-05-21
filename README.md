@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jessieli Avellar</h1>
-- 💭  Lifelong learner, curious about all things
-  🌏  Native portuguese, fluent English and intermediate Spanish
+- 💭  Lifelong learner, curious about all things <br>
+- 🌏  Native portuguese, fluent English and intermediate Spanish
 <br>
 
 
